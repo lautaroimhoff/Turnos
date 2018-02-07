@@ -1,0 +1,1 @@
+include ':app', ':greendao-greendao', ':mysql-connector-java-5.1.44-bin', ':mysql-connector-java-3.1.14-bin', ':postgresql-9.3-1103.jdbc3', ':gson-1.7.1-javadoc', ':gson-1.7.1-sources', ':gson-1.7.1'
